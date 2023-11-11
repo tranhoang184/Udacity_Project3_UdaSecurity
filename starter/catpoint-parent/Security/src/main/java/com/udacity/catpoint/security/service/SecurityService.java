@@ -9,10 +9,7 @@ import com.udacity.catpoint.security.data.Sensor;
 
 import java.awt.image.BufferedImage;
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.List;
 import java.util.Set;
-import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.stream.Collectors;
 
 
